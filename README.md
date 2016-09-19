@@ -9,7 +9,7 @@ A plugin for adding [Froala] editor support in [Administrate].
 Add to your `Gemfile`:
 
 ```ruby
-gem "administrate-field-froala", "~> 0.1"
+gem "administrate-field-froala", "~> 0.2"
 ```
 
 Run:
